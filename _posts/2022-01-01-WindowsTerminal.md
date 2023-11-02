@@ -1,7 +1,11 @@
+---
+tags:
+    - WindowsTerminal
+---
 
 
-
-
+wt
+Windows Terminal  
 
 # 安装  
 
