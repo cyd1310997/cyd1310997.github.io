@@ -99,16 +99,37 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "github",
+        href: "https://github.com/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "zhihu",
+        href: "https://www.zhihu.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "bilibili",
+        href: "https://www.bilibili.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "source code",
+        href: "https://github.com/cyd1310997/cyd1310997.github.io"
+    },{
+        title: "baidufanyi",
+        href: "https://fanyi.baidu.com"
+    },{
+        title: "douyin",
+        href: "https://www.douyin.com"
+    },{
+        title: "aliyundrive",
+        href: "https://www.aliyundrive.com"
+    },{
+        title: "amap",
+        href: "https://ditu.amap.com"
+    },{
+        title: "gitee-all-about-git",
+        href: "https://gitee.com/all-about-git"
+    },{
+        title: "learn-git-branching",
+        href: "https://oschina.gitee.io/learn-git-branching"
+    },{
+        title: "",
+        href: ""
     }
 ]
