@@ -99,6 +99,15 @@ service-worker: true
 # Friends
 friends: [
     {
+        title: "blog home page",
+        href: "https://cyd1310997.github.io/"
+    },{
+        title: "blog github page",
+        href: "https://github.com/cyd1310997/cyd1310997.github.io"
+    },{
+        title: "blog dev page",
+        href: "https://github.dev/cyd1310997/cyd1310997.github.io"
+    },{
         title: "github",
         href: "https://github.com/"
     },{
@@ -107,9 +116,6 @@ friends: [
     },{
         title: "bilibili",
         href: "https://www.bilibili.com/"
-    },{
-        title: "source code",
-        href: "https://github.com/cyd1310997/cyd1310997.github.io"
     },{
         title: "baidufanyi",
         href: "https://fanyi.baidu.com"
@@ -128,6 +134,15 @@ friends: [
     },{
         title: "learn-git-branching",
         href: "https://oschina.gitee.io/learn-git-branching"
+    },{
+        title: "",
+        href: ""
+    },{
+        title: "",
+        href: ""
+    },{
+        title: "",
+        href: ""
     },{
         title: "",
         href: ""
